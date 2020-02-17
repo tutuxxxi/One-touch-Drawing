@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/box.png</file>
+        <file>image/btn.png</file>
+        <file>image/cat.png</file>
+        <file>image/choose_background.png</file>
+        <file>image/exit.png</file>
+        <file>image/icon.png</file>
+        <file>image/level.png</file>
+        <file>image/lock_level.png</file>
+        <file>image/mainMenu.png</file>
+        <file>image/pass_box_down&amp;left.png</file>
+        <file>image/pass_box_down&amp;right.png</file>
+        <file>image/pass_box_down.png</file>
+        <file>image/pass_box_left&amp;right.png</file>
+        <file>image/pass_box_left.png</file>
+        <file>image/pass_box_right.png</file>
+        <file>image/pass_box_up&amp;down.png</file>
+        <file>image/pass_box_up&amp;left.png</file>
+        <file>image/pass_box_up&amp;right.png</file>
+        <file>image/pass_box_up.png</file>
+        <file>image/pass_cat_down.png</file>
+        <file>image/pass_cat_left.png</file>
+        <file>image/pass_cat_right.png</file>
+        <file>image/pass_cat_up.png</file>
+        <file>image/pass_level.png</file>
+        <file>image/restart.png</file>
+        <file>image/win.png</file>
+        <file>image/win_back.png</file>
+        <file>image/win_next.png</file>
+        <file>image/win_regame.png</file>
+        <file>music/front.wav</file>
+        <file>music/back.wav</file>
+        <file>music/button.wav</file>
+        <file>music/win.wav</file>
+        <file>image/main.GIF</file>
+        <file>image/prompt_down.png</file>
+        <file>image/prompt_left.png</file>
+        <file>image/prompt_right.png</file>
+        <file>image/prompt_up.png</file>
+        <file>image/change_model1.png</file>
+        <file>image/change_model2.png</file>
+        <file>image/change_model.png</file>
+        <file>image/prompt.png</file>
+    </qresource>
+</RCC>
